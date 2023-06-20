@@ -1,3 +1,4 @@
 # Cellphone price
- Linear Regression, estimating price of cellphone
+ Linear Regression ,estimating the  price of cellphones.
+ 
  edited1
